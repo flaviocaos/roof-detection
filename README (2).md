@@ -1,5 +1,5 @@
 
-# gaia-coleta360-deteccao-telhados
+# roof-detection
 
 Segmentação automática de telhados em imagens de satélite utilizando aprendizado profundo (Deep Learning). Este projeto é parte do sistema interno da empresa para geração de dados estruturados a partir de imagens aéreas, com foco em aplicações urbanas, cadastrais e ambientais.
 
